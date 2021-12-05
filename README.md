@@ -9,6 +9,7 @@
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#autor">Autor</a>
 </p>
+![ProjetoPizza](https://user-images.githubusercontent.com/73944190/144728792-4d8ee813-b1ae-4997-9c3c-b789921a68c1.PNG)
 
 <h3 id=link>Link</h3>
 https://projeto-pizza.vercel.app/
